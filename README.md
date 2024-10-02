@@ -1,7 +1,7 @@
 ## Opa, me chamo Thiago! 😁
 
 - 📕 Estudante de Análise e Desenvolvimento de Sistemas
-- 📌 Atualmente estudando JAVA
+- 📌 Atualmente estudando JAVA, HTML e CSS
 
 ##
 
