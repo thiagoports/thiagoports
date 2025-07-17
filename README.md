@@ -6,6 +6,7 @@
 🎨 Designer e estudante de UX/UI Design
 🏍️ Também envolvido com o universo de vendas e gestão em concessionária de motos  
 
+
 ---
 
 ## 🛠️ Tecnologias que utilizo
