@@ -2,7 +2,8 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFIP  
 🚀 Apaixonado por tecnologia, desenvolvimento web e soluções criativas  
-🔧 Estagiário Front End & UX Design no Núcleo de Inovação e Tecnologia da UNIFIP 
+🔧 Estagiário Front End & UX Design no Núcleo de Inovação e Tecnologia da UNIFIP
+
 🎨 Designer e estudante de UX/UI Design
 
 ---
