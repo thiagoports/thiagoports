@@ -1,29 +1,3 @@
-<div align="center">
-  
-  <a href="https://github.com/thiagoports" target="_blank">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code&
-    size=26&
-    center=true&
-    vCenter=true&
-    width=600&
-    height=50&
-    color=40916C&
-    lines=Ol%C3%A1%2C+eu+sou+o+Thiago+👋;
-    Bem+vindo+ao+meu+perfil!;
-    Estudante+de+ADS+na+UNIFIP+%F0%9F%8E%93;
-    Estagi%C3%A1rio+Front+End+%26+UX+Design+%F0%9F%94%A9;
-    Designer+e+Estudante+de+UX%2FUI+%F0%9F%8E%A8;
-    Apaixonado+por+tecnologia+e+solu%C3%A7%C3%B5es+criativas+%F0%9F%9A%80
-  )](https://github.com/thiagoports)
-
-  </a>
-
-</div>
-
----
-
 ### Sobre Mim
 
 Opa! Sou o **Thiago**, um profissional em formação focado em criar experiências digitais intuitivas e visualmente agradáveis.
