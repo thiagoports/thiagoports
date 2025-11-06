@@ -16,7 +16,7 @@ Hi 👋, I am Thiago an enthusiastic and ambitious front end developer,  I speci
 <details>
   <summary>➡️ More about me</summary>
 
-- 🌱 I develop interfaces where the Experience (UX) is guaranteed and the Design (UI) is intuitive..** 🤓
+- 🌱 I develop interfaces where the **Experience (UX) is guaranteed and the Design (UI) is intuitive..** 🤓
 
 - 🤝 I’m open to collaboration on **projects or contributions to open-source libraries.**
 
