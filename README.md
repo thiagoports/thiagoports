@@ -1,29 +1,29 @@
-### Sobre Mim
+<a href="https://www.thiagoports.com.br"><img src="https://res.cloudinary.com/dqkpkmicx/image/upload/v1762456375/thiagoports-img-readme_aaa9c8.png" width="100%" height="auto"/></a>
 
-Opa! Sou o **Thiago**, um profissional em formação focado em criar experiências digitais intuitivas e visualmente agradáveis.
+Hi 👋, I am Thiago an enthusiastic and ambitious full stack developer,  I specialise in Web Development, JavaScript and Design.
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,vite,nodejs,nestjs,postgres,figma,vercel)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Análise%20e%20Desenvolvimento%20de%20Sistemas-40916C?style=for-the-badge&logo=universidadedofuturo&logoColor=white" alt="Estudante de ADS">
-  <img src="https://img.shields.io/badge/Estagiário-Front%20End%20%26%20UX%20Design-52B788?style=for-the-badge&logo=unifip&logoColor=white" alt="Estagiário Front End & UX Design">
+## 😁 Github Stats
+
+<p align="left">
+  <a href="https://github.com/thiagoports">
+    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=thiagoports&theme=radical&title_color=ff3068&show_icons=true">
+  </a>
 </p>
 
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIFIP.
-- 🚀 **Apaixonado** por tecnologia, desenvolvimento web e soluções criativas.
-- 🔧 **Estagiário Front End & UX Design** no Núcleo de Inovação e Tecnologia da UNIFIP.
-- 🎨 **Designer e estudante de UX/UI Design**, focado em transformar ideias em interfaces funcionais.
+<div>
+<details>
+  <summary>➡️ More about me</summary>
 
-<br>
+- 🌱 I’m constantly learning **new patterns in distributed systems and cloud architecture.** 🤓
 
-### Minhas Habilidades (Tech & Design)
+- 🤝 I’m open to collaboration on **projects or contributions to open-source libraries.**
 
-Em desenvolvimento e aprendizado contínuo:
+- 💬 Feel free to ask me about **Web Development, JavaScript, or career advice in tech.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/UX%2FUI%20Design-0077B6?style=for-the-badge&logo=sketch&logoColor=white" alt="UX/UI Design">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-</p>
+- 📧 Reach me out via email at **thiagoports@hotmail.com**
+
+- 🔗 Connect with me on **LinkedIn**: [Thiago Porto](https://www.linkedin.com/in/thiago-porto-2a40592a4/)
+
+- 📸 Follow me on **Instagram**: [@thiagoporto_s](https://www.instagram.com/thiagoporto_s/)
