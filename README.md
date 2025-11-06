@@ -1,4 +1,4 @@
-<a href="https://www.thiagoports.com.br"><img src="https://res.cloudinary.com/dqkpkmicx/image/upload/v1762456375/thiagoports-img-readme_aaa9c8.png" width="100%" height="auto"/></a>
+<a href="https://www.thiagoports.com.br"><img src="https://res.cloudinary.com/dqkpkmicx/image/upload/v1762464560/thiagoports-img-readme_vosnd4.svg" width="100%" height="auto"/></a>
 
 Hi 👋, I am Thiago an enthusiastic and ambitious front end developer,  I specialise in Web Development, JavaScript and Design.
 
