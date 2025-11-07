@@ -2,7 +2,7 @@
 
 Hi 👋, I am Thiago an enthusiastic and ambitious front end developer,  I specialise in Web Development, JavaScript and Design.
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,vite,nodejs,nestjs,postgres,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,vite,nodejs,nestjs,postgres,figma,nextjs,vercel)](https://skillicons.dev)
 
 ## 😁 Github Stats
 
