@@ -1,6 +1,7 @@
 <a href="https://www.thiagoports.com.br"><img src="https://res.cloudinary.com/dqkpkmicx/image/upload/v1762464560/thiagoports-img-readme_vosnd4.svg" width="100%" height="auto"/></a>
 
-Hi 👋, I am Thiago an enthusiastic and ambitious front end developer,  I specialise in Web Development, JavaScript and Design.
+Hi 👋, I'm Thiago! I work as a Service Desk Analyst at Darede and as a freelance developer, combining IT support, cloud technologies, and web development.
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,vite,nodejs,nestjs,postgres,figma,nextjs,vercel)](https://skillicons.dev)
 
